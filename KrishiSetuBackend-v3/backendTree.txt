@@ -1,0 +1,119 @@
+Folder PATH listing
+Volume serial number is 12CD-A9AE
+C:.
+³   .env
+³   .env.example
+³   .gitignore
+³   backendTree.txt
+³   go.mod
+³   go.sum
+³   main.go
+³   
+ÃÄÄÄconfig
+³       config.go
+³       
+ÃÄÄÄcontrollers
+³       admin_controller.go
+³       answer_controller.go
+³       answer_vote_controller.go
+³       auth_controller.go
+³       equipment_controller.go
+³       helpers.go
+³       marketplace_controller.go
+³       marketplace_request_controller.go
+³       question_controller.go
+³       question_vote_controller.go
+³       rental_controller.go
+³       review_controller.go
+³       upload_controller.go
+³       
+ÃÄÄÄdatabase
+³       db.go
+³       
+ÃÄÄÄmiddleware
+³       admin_middleware.go
+³       jwt_middleware.go
+³       
+ÃÄÄÄmodels
+³       answer.go
+³       answer_vote.go
+³       equipment.go
+³       location.go
+³       marketplace_request.go
+³       product.go
+³       question.go
+³       question_vote.go
+³       rental.go
+³       review.go
+³       user.go
+³       
+ÃÄÄÄuploads
+³       .gitkeep
+³       1772980244480166100.jpeg
+³       1772980245156532700.jpeg
+³       1772980245189714600.jpeg
+³       1772980296781943400.jpeg
+³       1772980296931434200.jpeg
+³       1772980296976998500.jpeg
+³       1772980940389294600.jpeg
+³       1772980940512934800.jpeg
+³       1772980940563615200.jpeg
+³       1772980973759622500.jpeg
+³       1772980973791486100.jpeg
+³       1772980973821180500.jpeg
+³       1772984841040073600.png
+³       1772984861590643600.png
+³       1772985380485906000.png
+³       1772985402837628000.png
+³       1772986162153951500.png
+³       1772998845498607100.jpeg
+³       1774292315296074800.jpeg
+³       1774292315338915800.jpeg
+³       1774293153680027100.jpeg
+³       1774299340770003800.jpeg
+³       1774300054395803700.jpeg
+³       1774300054458224800.jpeg
+³       1774300054518779800.jpeg
+³       1774300284745032800.jpeg
+³       1774300284821512800.jpeg
+³       1774300284883560700.jpeg
+³       1774300395908400300.jpeg
+³       1774300395955306500.jpeg
+³       1774300396007493100.jpeg
+³       1774539793642089600.png
+³       1774550554821143600.jpeg
+³       1779371881561001200.jpeg
+³       1779371881608265300.jpeg
+³       1779371881706865200.jpeg
+³       1779372002329050800.jpeg
+³       1779372002380238600.jpeg
+³       1779372002455724300.jpeg
+³       1779372242831951100.jpeg
+³       1779372242908455900.jpeg
+³       1779372242972409200.jpeg
+³       1779372449316816300.jpeg
+³       1779372449379276100.jpeg
+³       1779372449439957600.jpeg
+³       1779372892041485400.jpeg
+³       1779372892092640200.jpeg
+³       1779372892149752700.jpeg
+³       1779380959193261100.jpeg
+³       1779381428309216000.jpeg
+³       1779381428400973900.jpeg
+³       1779381493251373900.jpeg
+³       1779381556261764800.jpeg
+³       1779381696397104300.jpeg
+³       1779381696488907400.jpeg
+³       1779381696594027200.jpeg
+³       1779381815315120600.jpeg
+³       1779381815367094000.jpeg
+³       1779381939077976500.jpeg
+³       1779381939110076400.jpeg
+³       1779381939145306200.jpeg
+³       
+ÀÄÄÄutils
+        email.go
+        jwt.go
+        otp.go
+        password.go
+        
